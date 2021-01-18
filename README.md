@@ -45,6 +45,9 @@ I consider myself a Backend Engineer, mostly worked on Backend.
 
 I’m a straightforward and open-minded, To me, honesty, humanity, and ethics are more important than being religious.
 
+![Abu Bakar Siddique's github stats](https://github-readme-stats.vercel.app/api?username=piyas33&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyas33&layout=compact)
   <!--
 ## {...} My Stack 💻🚀
 
