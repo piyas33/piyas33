@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > Software Engineer(Team Lead) at [AmazingSoft]() <br/>
 > Software Engineer at [Solution world limited]()
 
-
+[![Medium](https://img.shields.io/badge/%20-medium%20blog-black?color=000000&labelColor=000000&logo=medium&logoColor=ffffff)](https://safaetulahasan.medium.com/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:safaetul.ahasan@gmail.com?subject=&cc=)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=Blue)](https://www.linkedin.com/in/safaetul-ahasan-372587111/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/safaetul.ahasan)
