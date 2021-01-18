@@ -45,7 +45,7 @@ I’m a straightforward and open-minded, To me, honesty, humanity, and ethics ar
 
 ## {...} My Stack 💻🚀
 
-  <!--Cloud: ['Heroku', 'Netlify'],-->
+  <!--Cloud: ['Heroku', 'Netlify'],
 ```js
 {
   languages: ['PHP', 'Javascript', 'Python'],
@@ -56,3 +56,4 @@ I’m a straightforward and open-minded, To me, honesty, humanity, and ethics ar
   Open Source: ['Git, GitHub']
 }
 ```
+-->
