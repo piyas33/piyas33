@@ -43,9 +43,10 @@ I consider myself a Backend Engineer, mostly worked on Backend.
 
 I’m a straightforward and open-minded, To me, honesty, humanity, and ethics are more important than being religious.
 
+  <!--
 ## {...} My Stack 💻🚀
 
-  <!--Cloud: ['Heroku', 'Netlify'],
+Cloud: ['Heroku', 'Netlify'],
 ```js
 {
   languages: ['PHP', 'Javascript', 'Python'],
