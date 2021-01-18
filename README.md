@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a target="_blank" href="#"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+
 > Software Engineer(Team Lead) at [AmazingSoft]() <br/>
 > Software Engineer at [Solution world limited]()
 
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:safaetul.ahasan@gmail.com?subject=&cc=)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=Blue)](https://www.linkedin.com/in/safaetul-ahasan-372587111/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/safaetul.ahasan)
 
@@ -39,3 +43,16 @@ I consider myself a Backend Engineer, mostly worked on Backend.
 
 I’m a straightforward and open-minded, To me, honesty, humanity, and ethics are more important than being religious.
 
+## {...} My Stack 💻🚀
+
+  <!--Cloud: ['Heroku', 'Netlify'],-->
+```js
+{
+  languages: ['PHP', 'Javascript', 'Python'],
+  backend: ['Laravel','ExpressJs','Django'],
+  frontend: ['ReactJs', 'VueJs'],
+  databases: ['Sql','MongoDB'],
+  tools: ['Vs code', 'Postman', 'MongoDB Compass', 'Trello', 'Slack'],
+  Open Source: ['Git, GitHub']
+}
+```
