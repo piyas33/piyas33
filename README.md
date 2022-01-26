@@ -39,7 +39,17 @@ Expertise in :
 - AWS (EC2, S3, RDS), WebRTC.
 - DevOps (Apache, Nginx, Docker, Kubernetes, CI/CD, etc)
 
-![Safaetul Ahasan github stats](https://github-readme-stats.vercel.app/api?username=piyas33&count_private=true)
+<!-- ![Safaetul Ahasan github stats](https://github-readme-stats.vercel.app/api?username=piyas33&count_private=true) -->
+
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=piyas33&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=piyas33&count_private=true" alt="GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=piyas33" alt="visitors">
+</div>
 
 
 ## {...} My Stack 💻🚀
@@ -57,4 +67,4 @@ Expertise in :
 }
 ```
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyas33)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyas33) -->
