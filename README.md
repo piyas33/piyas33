@@ -31,13 +31,13 @@ I'm flexible, proactive, and curious. I believe in the craft of software enginee
 I’m a straightforward and open-minded, To me, honesty, humanity, and ethics are more important than being religious. -->
 
 Expertise in :
-- PHP(Laravel),Node.js(ExpressJs),Nextjs and Python(Django)
+- PHP(Laravel),Node.js(ExpressJs),Nextjs and Typescript
 - Reactjs, Vuejs.
 - API Integration like Facebook, Google, SMS and Payment Gateway and Restful API.
 - Microservices, REST Api, PubNub, GoogIeAPls, Git, Slack and Bitbucket.
 - MySQL, Postgresql and Mongodb, Couchdb.
-- AWS (EC2, S3, RDS), WebRTC.
-- DevOps (Apache, Nginx, Docker, Kubernetes, CI/CD, etc)
+- AWS (EC2, S3, RDS), WebRTC,Socket.io.
+- DevOps (Apache, Nginx, Docker CI/CD, etc)
 
 <!-- ![Safaetul Ahasan github stats](https://github-readme-stats.vercel.app/api?username=piyas33&count_private=true) -->
 
