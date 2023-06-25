@@ -5,11 +5,11 @@
 > Senior Software Engineer at [Live Technologies Ltd.](http://live-technologies.net) <br/>
 > Software Engineer(Team Lead) at [AmazingSoft](http://amazingsoftbd.com) <br/>
 > Software Engineer at [Solution world limited](http://www.solution-world.com)
-
+<!--
 [![Medium](https://img.shields.io/badge/%20-medium%20blog-black?color=000000&labelColor=000000&logo=medium&logoColor=ffffff)](https://safaetulahasan.medium.com/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:safaetul.ahasan@gmail.com?subject=&cc=)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=Blue)](https://www.linkedin.com/in/safaetul-ahasan-372587111/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/safaetul.ahasan)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/safaetul.ahasan) --
 
 Name:   safaetul ahasan
 
@@ -69,3 +69,29 @@ Expertise in :
 -->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyas33) -->
+
+<h1 align="center" ><!-- !Let's connect:--></h1>
+
+
+<div  align="center" gap="20px">
+<a href="https://www.linkedin.com/in/safaetulahasan/">
+    <img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://safaetulahasan.medium.com/">
+    <img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://github.com/piyas33/">
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+</a>
+</div>
+
+
+<div align="center">
+Resume: 
+<a href="https://piyas33.github.io/">Click here</a>
+
+Portfolio: 
+<a href="https://piyas33.github.io/"> Click Here</a>
+</div>
