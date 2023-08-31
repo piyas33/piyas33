@@ -2,6 +2,7 @@
 
 <a target="_blank" href="#"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 
+> Senior Software Engineer at [Jatri Service Ltd.](http://jatri.co) <br/>
 > Senior Software Engineer at [Live Technologies Ltd.](http://live-technologies.net) <br/>
 > Software Engineer(Team Lead) at [AmazingSoft](http://amazingsoftbd.com) <br/>
 > Software Engineer at [Solution world limited](http://www.solution-world.com)
@@ -20,7 +21,7 @@ Email: safaetul.ahasan@gmail.com
 Mobile: 01762002666
 
 
-<!-- I am a professional Software engineer with over 5.3 years of experience and 2.0+ years of team leading experience, worked on different platforms and languages and played different roles like Sr. Software Engineer, Lead and Engineering Manager.
+<!-- I am a professional Software engineer with over 7.5 years of experience and 5.0+ years of team leading experience, worked on different platforms and languages and played different roles like Sr. Software Engineer, Lead and Engineering Manager.
 
 I have completed M.Sc in Computer Science and Engineering from Jahangirnagar University. During my graduation participated at different national/Intra-university programming contest. I started my professional career as a Software Engineer at The "Solution world Limited". Now I am working as a software engineer at Live Technologies Ltd.
 
@@ -36,11 +37,11 @@ Expertise in :
 - API Integration like Facebook, Google, SMS and Payment Gateway and Restful API.
 - Microservices, REST Api, PubNub, GoogIeAPls, Git, Slack and Bitbucket.
 - MySQL, Postgresql and Mongodb, Couchdb.
-- AWS (EC2, S3, RDS), WebRTC,Socket.io.
+- AWS (EC2, S3, RDS,SQS), WebRTC,Socket.io.
 - DevOps (Apache, Nginx, Docker CI/CD, etc)
 
 <!-- ![Safaetul Ahasan github stats](https://github-readme-stats.vercel.app/api?username=piyas33&count_private=true) -->
-
+<!--
 ## 📈 Stats
 
 <div align="center">
@@ -50,7 +51,7 @@ Expertise in :
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=piyas33" alt="visitors">
 </div>
-
+-->
 
 <!-- ## {...} My Stack 💻🚀 -->
 
@@ -70,9 +71,9 @@ Expertise in :
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyas33) -->
 
-<h1 align="center" ><!-- !Let's connect:--></h1>
+<!--<h1 align="center" >--><!-- !Let's connect:--></h1>
 
-
+<!--
 <div  align="center" gap="20px">
 <a href="https://www.linkedin.com/in/safaetulahasan/">
     <img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
@@ -86,7 +87,7 @@ Expertise in :
 <img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
 </div>
-
+-->
 
 <div align="center">
 Resume: 
