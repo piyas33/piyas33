@@ -33,12 +33,12 @@ I’m a straightforward and open-minded, To me, honesty, humanity, and ethics ar
 
 Expertise in :
 - PHP(Laravel),Node.js(ExpressJs),Nextjs and Typescript
-- Reactjs, Vuejs.
-- API Integration like Facebook, Google, SMS and Payment Gateway and Restful API.
-- Microservices, REST Api, PubNub, GoogIeAPls, Git, Slack and Bitbucket.
-- MySQL, Postgresql and Mongodb, Couchdb.
+- Reactjs, Inertia.
+- API Integration like Facebook, Google, SMS and Payment Gateway(SSL COMMERZ,Bkash and Nagad) and Restful API.
+- Microservices, REST Api, PubNub, GoogIeAPls,MapApi, Git, Slack and ClickUp.
+- MySQL, Mongodb and Couchdb.
 - AWS (EC2, S3, RDS,SQS), WebRTC,Socket.io.
-- DevOps (Apache, Nginx, Docker CI/CD, etc)
+- DevOps (Nginx, Docker CI/CD, etc),Linux.
 
 <!-- ![Safaetul Ahasan github stats](https://github-readme-stats.vercel.app/api?username=piyas33&count_private=true) -->
 <!--
