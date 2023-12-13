@@ -88,7 +88,7 @@ Expertise in :
 </a>
 </div>
 -->
-
+<!--
 <div align="center">
 Resume: 
 <a href="https://piyas33.github.io/">Click here</a>
@@ -96,3 +96,4 @@ Resume:
 Portfolio: 
 <a href="https://piyas33.github.io/"> Click Here</a>
 </div>
+-->
