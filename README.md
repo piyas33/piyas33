@@ -2,7 +2,6 @@
 
 <a target="_blank" href="#"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 
-> Senior Software Engineer at [Jatri Service Ltd.](http://jatri.co) <br/>
 > Senior Software Engineer at [Live Technologies Ltd.](http://live-technologies.net) <br/>
 > Software Engineer(Team Lead) at [AmazingSoft](http://amazingsoftbd.com) <br/>
 > Software Engineer at [Solution world limited](http://www.solution-world.com)
