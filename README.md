@@ -28,11 +28,11 @@ I’m a straightforward and open-minded, To me, honesty, humanity, and ethics ar
 Expertise in :
 - PHP(Laravel),Node.js(ExpressJs),Nextjs and Typescript
 - Reactjs, Inertia.
-- API Integration like Facebook, Google, SMS and Payment Gateway(SSL COMMERZ,Bkash and Nagad) and Restful API.
-- Microservices, REST Api, PubNub, GoogIeAPls,MapApi, Git, Slack and ClickUp.
+- API Integration like Facebook, GoogIeMapAPI, SMS and Payment Gateway(SSL COMMERZ,Bkash and Nagad) and Restful API.
+- Microservices, REST Api,Git, Agile/Scrum development process, Clickup, and Slack.
 - MySQL, Mongodb and Couchdb.
 - AWS (EC2, S3, RDS,SQS), WebRTC,Socket.io.
-- DevOps (Nginx, Docker CI/CD, etc),Linux.
+- DevOps (Nginx, Docker CI/CD, etc),Linux(Ubuntu 22.04.4 LTS).
 
 <!-- ## {...} My Stack 💻🚀 -->
 
